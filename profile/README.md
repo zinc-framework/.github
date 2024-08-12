@@ -1,11 +1,13 @@
-ZINC is a cross-platform, 2D game framework for rapidly developing games in C#. It prioritizes immediacy, coziness, and magic.
+ZINC is a cross-platform, 2D game framework for rapidly developing games in C#.  
+It prioritizes **immediacy**, **coziness**, and **magic**.  
+
+_NOTE: Zinc isn't officially "launched" yet (you're a little early :))._  
 
 Getting started is as easy as:
 
 ```c#
 Engine.Boot(() => new Square);
 ```
-_NOTE: Zinc isn't officially "launched" yet (you're a little early :))._  
 
 Docs/Website/etc. are all being actively worked on. Below are some loose thoughts and notes!  
 
